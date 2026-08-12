@@ -9,8 +9,8 @@ export default function Home() {
         </a>
       )}
       <p className="px-6 text-center text-sm text-neutral-400">
-        this page is intentionally white so you can visit this on your computer
-        as a backlight
+        this page is intentionally white so you can visit this on your pc as a
+        backlight
       </p>
     </main>
   );
