@@ -10,6 +10,9 @@ export function Footer() {
       <Link href="/privacy" className="hover:underline">
         Privacy Policy
       </Link>
+      <Link href="/support" className="hover:underline">
+        Support
+      </Link>
       {email && (
         <a href={`mailto:${email}`} className="hover:underline">
           {email}
