@@ -1,3 +1,5 @@
+import { BacklightNote } from "@/components/backlight-note";
+
 export default function Home() {
   const appStoreUrl = process.env.APP_STORE_URL;
   return (
@@ -8,10 +10,7 @@ export default function Home() {
           download the iOS app
         </a>
       )}
-      <p className="px-6 text-center text-sm text-neutral-400">
-        this page is intentionally white so you can visit this on your pc as a
-        backlight
-      </p>
+      <BacklightNote />
     </main>
   );
 }
