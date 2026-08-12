@@ -1,20 +1,17 @@
 import Link from "next/link";
 
 export function Footer() {
-  const email = process.env.EMAIL_ADDRESS;
   return (
-    <footer className="flex items-center justify-center gap-6 p-6 text-sm text-neutral-500">
+    <footer className="flex items-center justify-center gap-4 p-4 text-xs text-neutral-500 sm:gap-6 sm:p-6 sm:text-sm">
       <Link href="/terms" className="hover:underline">
-        Terms of Service
+        Terms
       </Link>
       <Link href="/privacy" className="hover:underline">
         Privacy Policy
       </Link>
-      {email && (
-        <a href={`mailto:${email}`} className="hover:underline">
-          {email}
-        </a>
-      )}
+      <Link href="/support" className="hover:underline">
+        Support
+      </Link>
     </footer>
   );
 }

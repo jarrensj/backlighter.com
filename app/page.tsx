@@ -11,6 +11,10 @@ export default function Home() {
           download the iOS app
         </a>
       )}
+      <p className="text-sm text-neutral-400">
+        this page is intentionally white so you can visit this on your computer
+        as a backlight
+      </p>
     </main>
   );
 }

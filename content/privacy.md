@@ -22,6 +22,10 @@ Any preferences or settings you configure within backlighter are stored locally 
 
 backlighter does not integrate with any third-party analytics, advertising, or tracking services. Your usage of the app remains completely private.
 
+## Website Analytics
+
+Our website (backlighter.com) uses Vercel Analytics to collect anonymous, aggregated usage statistics such as page views. It does not use cookies and does not track you across sites, and no personal information is collected. This applies only to the website — the backlighter app itself contains no analytics.
+
 ## Children's Privacy
 
 backlighter does not knowingly collect any information from children under the age of 13. Since we do not collect any personal information, the app is safe for users of all ages.
