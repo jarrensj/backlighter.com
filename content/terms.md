@@ -8,7 +8,7 @@ By downloading, installing, or using backlighter, you agree to be bound by these
 
 ## 2. Description of Service
 
-backlighter is a mobile application that allows users to display full-screen colors on their device to assist with photography lighting. Version 1.0.1 adds a built-in camera preview so users can see how the backlight color affects their subject in real time, and the ability to save photos to the device's local photo library. The app is provided as-is for personal, non-commercial use.
+backlighter is a mobile application that allows users to display full-screen colors on their device to assist with photography lighting. Version 1.0.1 adds a built-in camera preview so users can see how the backlight color affects their subject in real time, and the ability to save photos to the device's local photo library. The app is provided as-is for personal, non-commercial use. Photos you take using backlighter belong to you, and you may use them for any purpose, including commercial use.
 
 ## 3. User Responsibilities
 
